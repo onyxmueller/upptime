@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/onyxmueller.net.ico",
     "slug": "onyx-mueller-net",
     "status": "up",
-    "uptime": "99.92%",
+    "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
-    "time": 709,
-    "timeDay": 996,
-    "timeWeek": 671,
-    "timeMonth": 709,
-    "timeYear": 709,
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 704,
+    "timeDay": 591,
+    "timeWeek": 665,
+    "timeMonth": 704,
+    "timeYear": 704,
     "dailyMinutesDown": {
       "2025-07-06": 19
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
-    "time": 506,
-    "timeDay": 714,
+    "time": 501,
+    "timeDay": 386,
     "timeWeek": 486,
-    "timeMonth": 506,
-    "timeYear": 506,
+    "timeMonth": 501,
+    "timeYear": 501,
     "dailyMinutesDown": {
       "2025-07-06": 18
     }
