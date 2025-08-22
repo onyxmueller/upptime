@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 718,
-    "timeDay": 540,
-    "timeWeek": 744,
-    "timeMonth": 734,
-    "timeYear": 718,
+    "time": 721,
+    "timeDay": 844,
+    "timeWeek": 756,
+    "timeMonth": 730,
+    "timeYear": 721,
     "dailyMinutesDown": {
       "2025-07-06": 19
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/marchsadness.app.ico",
     "slug": "march-sadness-app",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
-    "time": 499,
-    "timeDay": 470,
-    "timeWeek": 492,
-    "timeMonth": 503,
-    "timeYear": 499,
+    "uptimeYear": "99.98%",
+    "time": 501,
+    "timeDay": 618,
+    "timeWeek": 509,
+    "timeMonth": 499,
+    "timeYear": 501,
     "dailyMinutesDown": {
       "2025-07-06": 18
     }
