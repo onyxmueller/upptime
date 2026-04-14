@@ -4,10 +4,10 @@
     "url": "https://onyxmueller.net",
     "icon": "https://icons.duckduckgo.com/ip3/onyxmueller.net.ico",
     "slug": "onyx-mueller-net",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 761,
@@ -16,6 +16,7 @@
     "timeMonth": 845,
     "timeYear": 761,
     "dailyMinutesDown": {
+      "2026-04-14": 1,
       "2025-07-06": 19
     }
   },
@@ -24,7 +25,7 @@
     "url": "https://marchsadness.app",
     "icon": "https://icons.duckduckgo.com/ip3/marchsadness.app.ico",
     "slug": "march-sadness-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -36,6 +37,7 @@
     "timeMonth": 526,
     "timeYear": 541,
     "dailyMinutesDown": {
+      "2026-04-14": 0,
       "2025-07-06": 18
     }
   }
